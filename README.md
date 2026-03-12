@@ -83,5 +83,4 @@ FUTURE IMPROVEMENTS
 
 1. Use CNN / Deep Learning models for higher accuracy
 2. Increase dataset size
-
-Add real-time webcam gender detection
+3. Add real-time webcam gender detection
